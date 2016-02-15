@@ -3,3 +3,7 @@ f2
 function test
   //
 end
+
+//
+faire appel test_responsive.php 
+//
