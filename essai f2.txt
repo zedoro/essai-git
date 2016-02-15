@@ -1,2 +1,5 @@
 // essai f2
 f2
+function test
+  //
+end
